@@ -1,4 +1,9 @@
-/**header style**/
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .img-size {
     height: 100px;
     width: 100px;

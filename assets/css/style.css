@@ -4,7 +4,13 @@ body {
     padding: 0;
 }
 
-.img-size {
+.img-position {
+    position: relative;
+    width: auto;
     height: 100px;
-    width: 100px;
+    background-image: url('https://i.ibb.co/NWzJ8nR/1200px-Cardiff-City-crest-svg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100px 100px;
 }
+

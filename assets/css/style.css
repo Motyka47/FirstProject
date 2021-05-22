@@ -6,10 +6,30 @@
   border: 0;
 }
 
+header {
+    background-color: aqua;
+}
+
 #menu{
     list-style-type: none;
 }
 
+#menu a {
+    text-decoration: none;
+    color: black;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #2647ff;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
 .img-position {
     position: relative;
     width: auto;

@@ -23,12 +23,33 @@ header {
     border-bottom: 1px solid #2647ff;
 }
 
-.left {
+.left1 {
     float: left;
+    position: absolute;
+    top: 40px;
 }
 
-.right {
+.left2 {
+    float: left;
+    position: absolute;
+    left: 300px;
+    top: 40px;
+   
+}
+
+.right1 {
     float: right;
+    position: absolute;
+    top: 40px;
+    right: 0px;
+    
+}
+
+.right2 {
+    float: right;
+    position: absolute;
+    top: 40px;
+    right: 300px;
 }
 .img-position {
     position: relative;
